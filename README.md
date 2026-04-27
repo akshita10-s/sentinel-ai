@@ -12,8 +12,7 @@ SentinelAI detects, analyzes, and predicts unauthorized usage of sports media ac
 - Predictive “anomaly-before-viral” detection
 
 ## Tech Stack
-- HTML (single-page frontend)
-- JavaScript (core logic)
+- HTML (embedded JavaScript + embedded CSS)
 - D3.js (graph visualization)
 - Google Gemini API (AI analysis)
 
