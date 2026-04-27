@@ -14,6 +14,7 @@ SentinelAI detects, analyzes, and predicts unauthorized usage of sports media ac
 ## Tech Stack
 - HTML (embedded JavaScript + embedded CSS)
 - D3.js (graph visualization)
+- JavaScript (core logic)
 - Google Gemini API (AI analysis)
 
 ## How to Run
